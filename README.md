@@ -1,14 +1,10 @@
 ## Bem-vindo ao meu perfil!
 
 <div align="center">
-  <a href="https://github.com/Chagas09">
-    <img height="180em"
-      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Chagas09&show_icons=true&theme=tokyonight&v=3"
-    />
-    <img height="180em"
-      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Chagas09&layout=compact&langs_count=6&theme=tokyonight&v=3"
-    />
-  </a>
+
+  <!-- Contador de visitas (estável) -->
+  <img src="https://komarev.com/ghpvc/?username=Chagas09&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+
 </div>
 
 <br>
