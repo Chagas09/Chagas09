@@ -21,9 +21,9 @@
   <a href="https://www.instagram.com/jv_chagas09/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="mailto:joaovrc2004@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=joaovrc2004@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
   <a href="https://www.linkedin.com/in/joao-victor-roderjan-chagas-a7b639292/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
