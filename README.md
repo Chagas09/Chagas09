@@ -1,10 +1,7 @@
 ## Bem-vindo ao meu perfil!
 
 <div align="center">
-  <a href="https://github.com/Chagas09">
-    <img height="170" src="https://raw.githubusercontent.com/Chagas09/Chagas09/main/assets/github-stats.svg" />
-    <img height="170" src="https://raw.githubusercontent.com/Chagas09/Chagas09/main/assets/top-langs.svg" />
-  </a>
+  <img src="https://raw.githubusercontent.com/Chagas09/Chagas09/main/github-metrics.svg" />
 </div>
 
 <br>
