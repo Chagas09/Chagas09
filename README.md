@@ -1,4 +1,5 @@
 ## Bem-vindo ao meu perfil!
+<img src="https://raw.githubusercontent.com/Chagas09/Chagas09/main/github-metrics.svg" />
 
 <div>
   <a href="https://github.com/Chagas09">
