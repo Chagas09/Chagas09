@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/Chagas09">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chagas09&show_icons=true&theme=tokyonight&cache_seconds=7200&v=1"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chagas09&layout=compact&langs_count=6&theme=tokyonight&cache_seconds=7200&v=1"/>
+    <img height="180em" src="https://github-readme-stats-iota-sage-76.vercel.app/api?username=Chagas09&show_icons=true&theme=tokyonight&cache_seconds=7200&v=1"/>
+    <img height="180em" src="https://github-readme-stats-iota-sage-76.vercel.app/api/top-langs/?username=Chagas09&layout=compact&langs_count=6&theme=tokyonight&cache_seconds=7200&v=1"/>
   </a>
 </div>
 
