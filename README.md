@@ -3,7 +3,7 @@
 <div>
   <a href="https://github.com/Chagas09">
     <img height="180em" src="https://github-readme-stats-iota-sage-76.vercel.app/api?username=Chagas09&show_icons=true&theme=tokyonight&cache_seconds=7200&v=2"/>
-    <img height="180em" src="https://github-readme-stats-iota-sage-76.vercel.app/api/top-langs/?username=Chagas09&layout=compact&langs_count=6&theme=tokyonight&cache_seconds=7200&v=2"/>
+    <img height="180em" src="https://github-readme-stats-iota-sage-76.vercel.app/api/top-langs/?username=Chagas09&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=3600&v=3"/>
   </a>
 </div>
 
